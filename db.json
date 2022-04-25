@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    {
+      "nome": "Frutas",
+      "id": 1
+    },
+    {
+      "nome": "Carros",
+      "id": 3
+    },
+    {
+      "nome": "Países",
+      "id": 4
+    }
+  ],
+  "palavras": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "descricao": "Uma fruta fácil de comer",
+      "categoriaId": 1
+    }
+  ]
+}
